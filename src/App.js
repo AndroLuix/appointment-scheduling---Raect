@@ -19,7 +19,7 @@ function App() {
         <h2>Prossimi Incontri</h2>
         <div className='shadow px-2'>
           <FormDate setAllDate={setAllDate}/>
-          <List allDate={allDate}/>
+          <List allDate={allDate} setAllDate={setAllDate}/>
 
         </div>
 

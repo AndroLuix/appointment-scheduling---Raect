@@ -38,7 +38,7 @@ const FormDate = ({ setAllDate }) => {
         <form className='p-5  rounded border border-secondary' onSubmit={handleSubit}>
             <div className="form-group">
                 <label htmlFor="full-name">Name</label>
-                <input type="Full Name" name='name' className="form-control" id="full-name" placeholder="text"
+                <input type="Full Name" name='name' className="form-control" id="full-name" placeholder="Full Name"
                     value={appuntamento.name}
                     onChange={handleChange}
 
@@ -48,6 +48,8 @@ const FormDate = ({ setAllDate }) => {
             <div className="form-group">
                 <label htmlFor="tel">Phone number</label>
                 <input type="tel" name='phone' className="form-control" id="tel" placeholder="555-555-1234"
+                    pattern="\d{10,}" // accetta solo numeri con almeno 10 cifre
+
                     value={appuntamento.phone}
                     onChange={handleChange}
                 />
