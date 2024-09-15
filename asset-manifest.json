@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/appointment-scheduling---Raect/static/css/main.b5aaccda.css",
-    "main.js": "/appointment-scheduling---Raect/static/js/main.10adf18e.js",
-    "static/js/453.a32619b8.chunk.js": "/appointment-scheduling---Raect/static/js/453.a32619b8.chunk.js",
-    "static/media/logo.svg": "/appointment-scheduling---Raect/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/appointment-scheduling---Raect/index.html",
-    "main.b5aaccda.css.map": "/appointment-scheduling---Raect/static/css/main.b5aaccda.css.map",
-    "main.10adf18e.js.map": "/appointment-scheduling---Raect/static/js/main.10adf18e.js.map",
-    "453.a32619b8.chunk.js.map": "/appointment-scheduling---Raect/static/js/453.a32619b8.chunk.js.map"
+    "main.css": "/appointment-scheduling---React/static/css/main.b5aaccda.css",
+    "main.js": "/appointment-scheduling---React/static/js/main.b79506ed.js",
+    "static/js/453.a32619b8.chunk.js": "/appointment-scheduling---React/static/js/453.a32619b8.chunk.js",
+    "static/media/logo.svg": "/appointment-scheduling---React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/appointment-scheduling---React/index.html",
+    "main.b5aaccda.css.map": "/appointment-scheduling---React/static/css/main.b5aaccda.css.map",
+    "main.b79506ed.js.map": "/appointment-scheduling---React/static/js/main.b79506ed.js.map",
+    "453.a32619b8.chunk.js.map": "/appointment-scheduling---React/static/js/453.a32619b8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b5aaccda.css",
-    "static/js/main.10adf18e.js"
+    "static/js/main.b79506ed.js"
   ]
 }
