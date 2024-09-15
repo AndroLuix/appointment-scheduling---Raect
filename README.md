@@ -1,6 +1,6 @@
 # React App - Appontiment Scheduling
 
-Appointment Scheduling, visit the online site here:  [Click Here]([https://github.com/facebook/create-react-app](https://androluix.github.io/appointment-scheduling---React/)).
+Appointment Scheduling, visit the online site here:  [Click Here]([https://github.com/facebook/create-react-app](https://androluix.github.io/appointment-scheduling---React/]).
 In this web app you can organize your work with the appointment with your clients. 
 
 # Getting Started with Create React App
