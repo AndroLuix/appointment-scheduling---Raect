@@ -2,7 +2,7 @@
 
 This is a simple yet powerful Appointment Scheduling application built using React. The app allows users to schedule, view, and manage their appointments efficiently.
 
-You can visit the live demo here: [Appointment Scheduling App](https://androluix.github.io/appointment-scheduling---React/)
+You can visit the live demo here:[Appointment Scheduling App](https://androluix.github.io/appointment-scheduling---React/)](https://dev-iadicola.github.io/appointment-scheduling---React/)
 
 ## Features
 
